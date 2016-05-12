@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, hello!</string>
+    <string name="app_name">KT</string>
+    <string name="Start">Start</string>
+    <string name="Stop">Stop</string>
+    <string name="Setting">Setting</string>
+    <string name="SelectVibratorMode">VibratorMode</string>
+    <string name="RepeateNumber">RepeateNumber</string>
+    <string name="CheckResult">CheckResult</string>
+    <string name="Total_times">Total times</string>
+    <string name="Repeated_times">Repeated times</string>
+    <string name="ANRKeyTimeoutButton">ANRKeyTimeoutButton</string>
+    <string name="TestButton">TestButton</string>
+    <string name="StartServiceButton">StartServiceButton</string>
+    <string name="TestViewButton">TestViewButton</string>
+    <string name="TestActivityButton">TestActivityButton</string>
+    <string name="TestActivity">TestActivity</string>
+    <string name="TestListView">TestListView</string>
+    <string name="StartRecord">StartRecord</string>
+    <string name="ScaleX">ScaleX</string>
+    <string name="ScaleXandScaleY">ScaleXandScaleY</string>
+    <string name="ScaleXandScaleY">ScaleXandScaleY</string>
+</resources>

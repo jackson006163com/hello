@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<Button android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/TestButton"
+        android:text="@string/TestButton"
+    />
+
+<Button android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ANRKeyTimeoutButton"
+        android:text="@string/ANRKeyTimeoutButton"
+    />
+
+<Button android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/StartServiceButton"
+        android:text="@string/StartServiceButton"
+    />
+
+<Button android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/TestViewButton"
+        android:text="@string/TestViewButton"
+    />
+
+<Button android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/TestActivityButton"
+        android:text="@string/TestActivityButton"
+    />
+
+<CheckBox 
+        android:id="@+id/StartRecord"
+        android:layout_width="match_parent" 
+        android:layout_height="wrap_content"
+        android:checked="false"
+        android:text="@string/StartRecord"
+    />
+
+        <SeekBar android:id="@+id/step_seekbar"
+            android:layout_width="836px"
+            android:layout_height="wrap_content"
+            android:maxHeight="200px"
+            android:progressDrawable="@drawable/step_seek_track"
+            android:thumb="@drawable/step_seek_thumb"/>
+
+</LinearLayout>
+
+
+
+
