@@ -1,4 +1,4 @@
-package com.hyphenate.chatuidemo.video.util;
+package com.main.hyphenate.chatuidemo.video.util;
 
 import java.io.FileDescriptor;
 
@@ -12,7 +12,7 @@ import android.os.Build;
 import android.provider.MediaStore.Video.Thumbnails;
 import android.util.Log;
 
-import com.hyphenate.chatuidemo.BuildConfig;
+import com.main.BuildConfig;
 
 public class ImageResizer extends ImageWorker {
 	private static final String TAG = "ImageResizer";

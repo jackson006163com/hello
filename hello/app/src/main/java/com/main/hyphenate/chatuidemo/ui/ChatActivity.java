@@ -1,6 +1,6 @@
-package com.hyphenate.chatuidemo.ui;
+package com.main.hyphenate.chatuidemo.ui;
 
-import com.hyphenate.chatuidemo.R;
+import com.main.R;
 import com.hyphenate.easeui.ui.EaseChatFragment;
 import com.hyphenate.util.EasyUtils;
 

@@ -1,9 +1,9 @@
-package com.hyphenate.chatuidemo.ui;
+package com.main.hyphenate.chatuidemo.ui;
 
 import com.hyphenate.EMError;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMGroup;
-import com.hyphenate.chatuidemo.R;
+import com.main.R;
 import com.hyphenate.exceptions.HyphenateException;
 
 import android.app.ProgressDialog;

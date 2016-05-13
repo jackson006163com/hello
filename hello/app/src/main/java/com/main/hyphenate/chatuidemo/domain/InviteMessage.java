@@ -11,7 +11,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hyphenate.chatuidemo.domain;
+package com.main.hyphenate.chatuidemo.domain;
 
 public class InviteMessage {
 	private String from;

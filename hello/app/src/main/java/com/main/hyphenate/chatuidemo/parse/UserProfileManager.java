@@ -1,4 +1,4 @@
-package com.hyphenate.chatuidemo.parse;
+package com.main.hyphenate.chatuidemo.parse;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,9 +6,9 @@ import java.util.List;
 import com.hyphenate.EMValueCallBack;
 import com.hyphenate.chat.EMChatManager;
 import com.hyphenate.chat.EMClient;
-import com.hyphenate.chatuidemo.DemoHelper;
-import com.hyphenate.chatuidemo.DemoHelper.DataSyncListener;
-import com.hyphenate.chatuidemo.utils.PreferenceManager;
+import com.main.hyphenate.chatuidemo.DemoHelper;
+import com.main.hyphenate.chatuidemo.DemoHelper.DataSyncListener;
+import com.main.hyphenate.chatuidemo.utils.PreferenceManager;
 import com.hyphenate.easeui.domain.EaseUser;
 
 import android.content.Context;

@@ -11,15 +11,15 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hyphenate.chatuidemo.adapter;
+package com.main.hyphenate.chatuidemo.adapter;
 
 import java.util.List;
 
 import com.hyphenate.chat.EMClient;
-import com.hyphenate.chatuidemo.R;
-import com.hyphenate.chatuidemo.db.InviteMessgeDao;
-import com.hyphenate.chatuidemo.domain.InviteMessage;
-import com.hyphenate.chatuidemo.domain.InviteMessage.InviteMesageStatus;
+import com.main.R;
+import com.main.hyphenate.chatuidemo.db.InviteMessgeDao;
+import com.main.hyphenate.chatuidemo.domain.InviteMessage;
+import com.main.hyphenate.chatuidemo.domain.InviteMessage.InviteMesageStatus;
 
 import android.app.Activity;
 import android.app.ProgressDialog;

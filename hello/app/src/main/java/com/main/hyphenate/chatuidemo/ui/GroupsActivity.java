@@ -11,16 +11,16 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hyphenate.chatuidemo.ui;
+package com.main.hyphenate.chatuidemo.ui;
 
 import java.util.List;
 
 import com.hyphenate.EMValueCallBack;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMGroup;
-import com.hyphenate.chatuidemo.Constant;
-import com.hyphenate.chatuidemo.R;
-import com.hyphenate.chatuidemo.adapter.GroupAdapter;
+import com.main.hyphenate.chatuidemo.Constant;
+import com.main.R;
+import com.main.hyphenate.chatuidemo.adapter.GroupAdapter;
 import com.hyphenate.exceptions.HyphenateException;
 
 import android.content.Context;

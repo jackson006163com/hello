@@ -11,7 +11,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hyphenate.chatuidemo.ui;
+package com.main.hyphenate.chatuidemo.ui;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -21,10 +21,10 @@ import java.util.Map;
 import com.hyphenate.EMValueCallBack;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMContact;
-import com.hyphenate.chatuidemo.DemoHelper;
-import com.hyphenate.chatuidemo.R;
-import com.hyphenate.chatuidemo.db.UserDao;
-import com.hyphenate.chatuidemo.domain.RobotUser;
+import com.main.hyphenate.chatuidemo.DemoHelper;
+import com.main.R;
+import com.main.hyphenate.chatuidemo.db.UserDao;
+import com.main.hyphenate.chatuidemo.domain.RobotUser;
 import com.hyphenate.exceptions.HyphenateException;
 
 import android.content.Context;

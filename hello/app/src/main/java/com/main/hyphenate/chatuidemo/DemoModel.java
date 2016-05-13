@@ -1,4 +1,4 @@
-package com.hyphenate.chatuidemo;
+package com.main.hyphenate.chatuidemo;
 
 import java.util.HashMap;
 import java.util.List;
@@ -6,9 +6,9 @@ import java.util.Map;
 
 import android.content.Context;
 
-import com.hyphenate.chatuidemo.db.UserDao;
-import com.hyphenate.chatuidemo.domain.RobotUser;
-import com.hyphenate.chatuidemo.utils.PreferenceManager;
+import com.main.hyphenate.chatuidemo.db.UserDao;
+import com.main.hyphenate.chatuidemo.domain.RobotUser;
+import com.main.hyphenate.chatuidemo.utils.PreferenceManager;
 import com.hyphenate.easeui.domain.EaseUser;
 
 public class DemoModel {

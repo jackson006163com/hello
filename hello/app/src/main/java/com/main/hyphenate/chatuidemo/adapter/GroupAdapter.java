@@ -11,7 +11,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hyphenate.chatuidemo.adapter;
+package com.main.hyphenate.chatuidemo.adapter;
 
 import java.util.List;
 
@@ -30,7 +30,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.hyphenate.chat.EMGroup;
-import com.hyphenate.chatuidemo.R;
+import com.main.R;
 
 public class GroupAdapter extends ArrayAdapter<EMGroup> {
 

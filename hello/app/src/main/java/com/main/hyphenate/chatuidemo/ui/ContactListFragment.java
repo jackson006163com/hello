@@ -11,18 +11,18 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hyphenate.chatuidemo.ui;
+package com.main.hyphenate.chatuidemo.ui;
 
 import java.util.Hashtable;
 import java.util.Map;
 
 import com.hyphenate.chat.EMClient;
-import com.hyphenate.chatuidemo.DemoHelper;
-import com.hyphenate.chatuidemo.DemoHelper.DataSyncListener;
-import com.hyphenate.chatuidemo.R;
-import com.hyphenate.chatuidemo.db.InviteMessgeDao;
-import com.hyphenate.chatuidemo.db.UserDao;
-import com.hyphenate.chatuidemo.widget.ContactItemView;
+import com.main.hyphenate.chatuidemo.DemoHelper;
+import com.main.hyphenate.chatuidemo.DemoHelper.DataSyncListener;
+import com.main.R;
+import com.main.hyphenate.chatuidemo.db.InviteMessgeDao;
+import com.main.hyphenate.chatuidemo.db.UserDao;
+import com.main.hyphenate.chatuidemo.widget.ContactItemView;
 import com.hyphenate.easeui.domain.EaseUser;
 import com.hyphenate.easeui.ui.EaseContactListFragment;
 import com.hyphenate.util.EMLog;

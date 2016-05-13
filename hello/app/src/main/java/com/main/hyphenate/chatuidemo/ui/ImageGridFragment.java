@@ -1,4 +1,4 @@
-package com.hyphenate.chatuidemo.ui;
+package com.main.hyphenate.chatuidemo.ui;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -30,13 +30,13 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.hyphenate.chatuidemo.BuildConfig;
-import com.hyphenate.chatuidemo.R;
-import com.hyphenate.chatuidemo.domain.VideoEntity;
-import com.hyphenate.chatuidemo.video.util.ImageCache;
-import com.hyphenate.chatuidemo.video.util.ImageResizer;
-import com.hyphenate.chatuidemo.video.util.Utils;
-import com.hyphenate.chatuidemo.widget.RecyclingImageView;
+import com.main.BuildConfig;
+import com.main.R;
+import com.main.hyphenate.chatuidemo.domain.VideoEntity;
+import com.main.hyphenate.chatuidemo.video.util.ImageCache;
+import com.main.hyphenate.chatuidemo.video.util.ImageResizer;
+import com.main.hyphenate.chatuidemo.video.util.Utils;
+import com.main.hyphenate.chatuidemo.widget.RecyclingImageView;
 import com.hyphenate.util.DateUtils;
 import com.hyphenate.util.EMLog;
 import com.hyphenate.util.TextFormater;

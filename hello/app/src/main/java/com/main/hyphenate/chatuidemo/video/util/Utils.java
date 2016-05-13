@@ -1,4 +1,4 @@
-package com.hyphenate.chatuidemo.video.util;
+package com.main.hyphenate.chatuidemo.video.util;
 
 import java.util.Comparator;
 import java.util.List;
@@ -11,7 +11,7 @@ import android.os.Build;
 import android.os.Build.VERSION_CODES;
 import android.os.StrictMode;
 
-import com.hyphenate.chatuidemo.ui.ImageGridActivity;
+import com.main.hyphenate.chatuidemo.ui.ImageGridActivity;
 
 public class Utils {
 

@@ -1,4 +1,4 @@
-package com.hyphenate.chatuidemo.ui;
+package com.main.hyphenate.chatuidemo.ui;
 
 import android.content.Intent;
 import android.content.pm.PackageInfo;
@@ -12,8 +12,8 @@ import android.widget.TextView;
 import com.hyphenate.chat.EMChatManager;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMGroupManager;
-import com.hyphenate.chatuidemo.DemoHelper;
-import com.hyphenate.chatuidemo.R;
+import com.main.hyphenate.chatuidemo.DemoHelper;
+import com.main.R;
 
 /**
  * 开屏页

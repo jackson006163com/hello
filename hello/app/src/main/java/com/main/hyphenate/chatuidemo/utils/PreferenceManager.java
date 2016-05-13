@@ -11,7 +11,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hyphenate.chatuidemo.utils;
+package com.main.hyphenate.chatuidemo.utils;
 
 import android.content.Context;
 import android.content.SharedPreferences;

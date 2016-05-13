@@ -1,4 +1,4 @@
-package com.hyphenate.chatuidemo.widget;
+package com.main.hyphenate.chatuidemo.widget;
 
 import android.content.Context;
 import android.util.AttributeSet;
