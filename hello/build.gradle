@@ -18,12 +18,6 @@ allprojects {
     }
 }
 
-apply plugin: 'net.wequick.small'
-small {
-    aarVersion = '0.9.0'
-    strictSplitResources = false
-}
-
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
