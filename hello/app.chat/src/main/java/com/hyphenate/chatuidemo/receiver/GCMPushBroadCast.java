@@ -1,4 +1,4 @@
-package com.hyphenate.chatuidemo.receiver;
+package com.hyphenate.chatuidemo.app.chat.receiver;
 
 import android.app.Notification;
 import android.app.NotificationManager;

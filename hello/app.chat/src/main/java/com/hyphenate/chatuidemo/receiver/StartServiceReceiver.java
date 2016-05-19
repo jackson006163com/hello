@@ -9,7 +9,7 @@
   * is strictly forbidden unless prior written permission is obtained
   * from EaseMob Technologies.
   */
-package com.hyphenate.chatuidemo.receiver;
+package com.hyphenate.chatuidemo.app.chat.receiver;
 
 import com.hyphenate.chat.EMChatService;
 import com.hyphenate.util.EMLog;

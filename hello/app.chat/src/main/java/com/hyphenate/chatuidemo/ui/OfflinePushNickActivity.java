@@ -1,7 +1,7 @@
-package com.hyphenate.chatuidemo.ui;
+package com.hyphenate.chatuidemo.app.chat.ui;
 
 import com.hyphenate.chat.EMClient;
-import com.hyphenate.chatuidemo.R;
+import com.hyphenate.chatuidemo.app.chat.R;
 
 import android.app.ProgressDialog;
 import android.graphics.Color;

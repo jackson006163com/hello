@@ -1,4 +1,4 @@
-package com.hyphenate.chatuidemo.domain;
+package com.hyphenate.chatuidemo.app.chat.domain;
 
 public class VideoEntity {
 	public int ID;

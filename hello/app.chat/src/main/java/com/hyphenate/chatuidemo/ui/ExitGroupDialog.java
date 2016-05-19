@@ -11,7 +11,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hyphenate.chatuidemo.ui;
+package com.hyphenate.chatuidemo.app.chat.ui;
 
 import android.os.Bundle;
 import android.view.MotionEvent;
@@ -19,7 +19,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.hyphenate.chatuidemo.R;
+import com.hyphenate.chatuidemo.app.chat.R;
 
 public class ExitGroupDialog extends BaseActivity{
     private TextView text;

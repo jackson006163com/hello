@@ -1,8 +1,8 @@
-package com.hyphenate.chatuidemo.domain;
+package com.hyphenate.chatuidemo.app.chat.domain;
 
 import java.util.Arrays;
 
-import com.hyphenate.chatuidemo.R;
+import com.hyphenate.chatuidemo.app.chat.R;
 import com.hyphenate.easeui.lib.easeui.domain.EaseEmojicon;
 import com.hyphenate.easeui.lib.easeui.domain.EaseEmojicon.Type;
 import com.hyphenate.easeui.lib.easeui.domain.EaseEmojiconGroupEntity;

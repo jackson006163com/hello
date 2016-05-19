@@ -1,4 +1,4 @@
-package com.hyphenate.chatuidemo.ui;
+package com.hyphenate.chatuidemo.app.chat.ui;
 
 import com.hyphenate.chat.EMCallStateChangeListener;
 import com.hyphenate.chat.EMClient;
@@ -6,8 +6,8 @@ import com.hyphenate.chat.EMMessage;
 import com.hyphenate.chat.EMCallManager.EMVideoCallHelper.CallType;
 import com.hyphenate.chat.EMMessage.Status;
 import com.hyphenate.chat.EMTextMessageBody;
-import com.hyphenate.chatuidemo.Constant;
-import com.hyphenate.chatuidemo.R;
+import com.hyphenate.chatuidemo.app.chat.Constant;
+import com.hyphenate.chatuidemo.app.chat.R;
 import com.hyphenate.exceptions.EMServiceNotReadyException;
 import com.hyphenate.media.EMLocalSurfaceView;
 import com.hyphenate.media.EMOppositeSurfaceView;

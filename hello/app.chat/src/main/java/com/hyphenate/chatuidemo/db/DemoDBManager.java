@@ -1,4 +1,4 @@
-package com.hyphenate.chatuidemo.db;
+package com.hyphenate.chatuidemo.app.chat.db;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -6,11 +6,11 @@ import java.util.Hashtable;
 import java.util.List;
 import java.util.Map;
 
-import com.hyphenate.chatuidemo.Constant;
-import com.hyphenate.chatuidemo.DemoApplication;
-import com.hyphenate.chatuidemo.domain.InviteMessage;
-import com.hyphenate.chatuidemo.domain.InviteMessage.InviteMesageStatus;
-import com.hyphenate.chatuidemo.domain.RobotUser;
+import com.hyphenate.chatuidemo.app.chat.Constant;
+import com.hyphenate.chatuidemo.app.chat.DemoApplication;
+import com.hyphenate.chatuidemo.app.chat.domain.InviteMessage;
+import com.hyphenate.chatuidemo.app.chat.domain.InviteMessage.InviteMesageStatus;
+import com.hyphenate.chatuidemo.app.chat.domain.RobotUser;
 import com.hyphenate.easeui.lib.easeui.domain.EaseUser;
 import com.hyphenate.easeui.lib.easeui.utils.EaseCommonUtils;
 import com.hyphenate.util.HanziToPinyin;

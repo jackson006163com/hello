@@ -770,7 +770,7 @@ public class KTMain extends Activity {
         Log.d("locald","tttt ....qqq");
         //Small.openUri("chat", this);
         Intent i = new Intent();
-        i.setClassName(this, "com.hyphenate.chatuidemo.ui.SplashActivity");
+        i.setClassName(this, "com.hyphenate.chatuidemo.app.chat.ui.SplashActivity");
         startActivity(i);
 
         //MyFile f = new MyFile();

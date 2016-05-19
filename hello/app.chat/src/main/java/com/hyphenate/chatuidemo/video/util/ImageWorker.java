@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.hyphenate.chatuidemo.video.util;
+package com.hyphenate.chatuidemo.app.chat.video.util;
 
 import java.lang.ref.WeakReference;
 import java.util.concurrent.Executor;
@@ -33,7 +33,7 @@ import android.support.v4.app.FragmentManager;
 import android.util.Log;
 import android.widget.ImageView;
 
-import com.hyphenate.chatuidemo.BuildConfig;
+import com.hyphenate.chatuidemo.app.chat.BuildConfig;
 
 /**
  * This class wraps up completing some arbitrary long running work when loading a bitmap to an

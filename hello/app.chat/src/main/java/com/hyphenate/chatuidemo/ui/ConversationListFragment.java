@@ -1,4 +1,4 @@
-package com.hyphenate.chatuidemo.ui;
+package com.hyphenate.chatuidemo.app.chat.ui;
 
 import android.content.Intent;
 import android.view.ContextMenu;
@@ -16,9 +16,9 @@ import com.hyphenate.chat.EMChatManager;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMConversation;
 import com.hyphenate.chat.EMConversation.EMConversationType;
-import com.hyphenate.chatuidemo.Constant;
-import com.hyphenate.chatuidemo.R;
-import com.hyphenate.chatuidemo.db.InviteMessgeDao;
+import com.hyphenate.chatuidemo.app.chat.Constant;
+import com.hyphenate.chatuidemo.app.chat.R;
+import com.hyphenate.chatuidemo.app.chat.db.InviteMessgeDao;
 import com.hyphenate.easeui.lib.easeui.ui.EaseConversationListFragment;
 import com.hyphenate.util.NetUtils;
 

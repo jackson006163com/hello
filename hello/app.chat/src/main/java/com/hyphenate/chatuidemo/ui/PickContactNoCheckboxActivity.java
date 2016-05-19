@@ -11,7 +11,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hyphenate.chatuidemo.ui;
+package com.hyphenate.chatuidemo.app.chat.ui;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -28,9 +28,9 @@ import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
 
-import com.hyphenate.chatuidemo.Constant;
-import com.hyphenate.chatuidemo.DemoHelper;
-import com.hyphenate.chatuidemo.R;
+import com.hyphenate.chatuidemo.app.chat.Constant;
+import com.hyphenate.chatuidemo.app.chat.DemoHelper;
+import com.hyphenate.chatuidemo.app.chat.R;
 import com.hyphenate.easeui.lib.easeui.adapter.EaseContactAdapter;
 import com.hyphenate.easeui.lib.easeui.domain.EaseUser;
 import com.hyphenate.easeui.lib.easeui.widget.EaseSidebar;

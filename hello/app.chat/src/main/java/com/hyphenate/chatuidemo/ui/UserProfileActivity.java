@@ -1,12 +1,12 @@
-package com.hyphenate.chatuidemo.ui;
+package com.hyphenate.chatuidemo.app.chat.ui;
 
 import java.io.ByteArrayOutputStream;
 
 import com.bumptech.glide.Glide;
 import com.hyphenate.EMValueCallBack;
 import com.hyphenate.chat.EMClient;
-import com.hyphenate.chatuidemo.DemoHelper;
-import com.hyphenate.chatuidemo.R;
+import com.hyphenate.chatuidemo.app.chat.DemoHelper;
+import com.hyphenate.chatuidemo.app.chat.R;
 import com.hyphenate.easeui.lib.easeui.domain.EaseUser;
 import com.hyphenate.easeui.lib.easeui.utils.EaseUserUtils;
 

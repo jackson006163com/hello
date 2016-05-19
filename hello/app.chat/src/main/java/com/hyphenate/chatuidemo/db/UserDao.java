@@ -11,14 +11,14 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hyphenate.chatuidemo.db;
+package com.hyphenate.chatuidemo.app.chat.db;
 
 import java.util.List;
 import java.util.Map;
 
 import android.content.Context;
 
-import com.hyphenate.chatuidemo.domain.RobotUser;
+import com.hyphenate.chatuidemo.app.chat.domain.RobotUser;
 import com.hyphenate.easeui.lib.easeui.domain.EaseUser;
 
 public class UserDao {

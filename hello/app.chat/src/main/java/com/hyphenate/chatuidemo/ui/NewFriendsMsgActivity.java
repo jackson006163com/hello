@@ -11,7 +11,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hyphenate.chatuidemo.ui;
+package com.hyphenate.chatuidemo.app.chat.ui;
 
 import java.util.List;
 
@@ -19,10 +19,10 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ListView;
 
-import com.hyphenate.chatuidemo.R;
-import com.hyphenate.chatuidemo.adapter.NewFriendsMsgAdapter;
-import com.hyphenate.chatuidemo.db.InviteMessgeDao;
-import com.hyphenate.chatuidemo.domain.InviteMessage;
+import com.hyphenate.chatuidemo.app.chat.R;
+import com.hyphenate.chatuidemo.app.chat.adapter.NewFriendsMsgAdapter;
+import com.hyphenate.chatuidemo.app.chat.db.InviteMessgeDao;
+import com.hyphenate.chatuidemo.app.chat.domain.InviteMessage;
 
 /**
  * 申请与通知

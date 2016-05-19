@@ -12,7 +12,7 @@
  * limitations under the License.
  */
 
-package com.hyphenate.chatuidemo.ui;
+package com.hyphenate.chatuidemo.app.chat.ui;
 
 import android.os.Bundle;
 

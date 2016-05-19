@@ -11,12 +11,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hyphenate.chatuidemo.ui;
+package com.hyphenate.chatuidemo.app.chat.ui;
 
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.hyphenate.chatuidemo.R;
+import com.hyphenate.chatuidemo.app.chat.R;
 import com.hyphenate.easeui.lib.easeui.domain.EaseUser;
 import com.hyphenate.easeui.lib.easeui.widget.EaseAlertDialog;
 import com.hyphenate.easeui.lib.easeui.widget.EaseAlertDialog.AlertDialogUser;

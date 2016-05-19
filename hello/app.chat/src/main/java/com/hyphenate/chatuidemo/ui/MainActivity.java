@@ -11,7 +11,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hyphenate.chatuidemo.ui;
+package com.hyphenate.chatuidemo.app.chat.ui;
 
 import java.util.List;
 
@@ -23,12 +23,12 @@ import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMConversation;
 import com.hyphenate.chat.EMConversation.EMConversationType;
 import com.hyphenate.chat.EMMessage;
-import com.hyphenate.chatuidemo.Constant;
-import com.hyphenate.chatuidemo.DemoHelper;
-import com.hyphenate.chatuidemo.R;
-import com.hyphenate.chatuidemo.db.InviteMessgeDao;
-import com.hyphenate.chatuidemo.db.UserDao;
-import com.hyphenate.chatuidemo.domain.InviteMessage;
+import com.hyphenate.chatuidemo.app.chat.Constant;
+import com.hyphenate.chatuidemo.app.chat.DemoHelper;
+import com.hyphenate.chatuidemo.app.chat.R;
+import com.hyphenate.chatuidemo.app.chat.db.InviteMessgeDao;
+import com.hyphenate.chatuidemo.app.chat.db.UserDao;
+import com.hyphenate.chatuidemo.app.chat.domain.InviteMessage;
 import com.hyphenate.easeui.lib.easeui.utils.EaseCommonUtils;
 import com.hyphenate.util.EMLog;
 import com.umeng.analytics.MobclickAgent;

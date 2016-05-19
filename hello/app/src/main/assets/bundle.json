@@ -7,7 +7,7 @@
     },
     {
       "uri": "chat",
-      "pkg": "com.hyphenate.chatuidemo"
+      "pkg": "com.hyphenate.chatuidemo.app.chat"
     }
   ]
 }

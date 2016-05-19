@@ -11,7 +11,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hyphenate.chatuidemo.domain;
+package com.hyphenate.chatuidemo.app.chat.domain;
 
 import com.hyphenate.easeui.lib.easeui.domain.EaseUser;
 

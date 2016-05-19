@@ -1,8 +1,8 @@
-package com.hyphenate.chatuidemo.widget;
+package com.hyphenate.chatuidemo.app.chat.widget;
 
 import com.hyphenate.chat.EMMessage;
 import com.hyphenate.chat.EMTextMessageBody;
-import com.hyphenate.chatuidemo.Constant;
+import com.hyphenate.chatuidemo.app.chat.Constant;
 //import com.hyphenate.easeui.lib.easeui.R;
 import com.hyphenate.easeui.lib.easeui.widget.chatrow.EaseChatRow;
 

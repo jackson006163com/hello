@@ -11,7 +11,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hyphenate.chatuidemo.task;
+package com.hyphenate.chatuidemo.app.chat.task;
 
 import android.graphics.Bitmap;
 import android.os.AsyncTask;

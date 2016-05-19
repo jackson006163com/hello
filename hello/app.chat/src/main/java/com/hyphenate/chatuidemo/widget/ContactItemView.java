@@ -1,4 +1,4 @@
-package com.hyphenate.chatuidemo.widget;
+package com.hyphenate.chatuidemo.app.chat.widget;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -10,7 +10,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.hyphenate.chatuidemo.R;
+import com.hyphenate.chatuidemo.app.chat.R;
 
 public class ContactItemView extends LinearLayout{
 

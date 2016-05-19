@@ -1,11 +1,11 @@
-package com.hyphenate.chatuidemo.video.util;
+package com.hyphenate.chatuidemo.app.chat.video.util;
 
 import android.content.res.Resources;
 import android.graphics.Bitmap;
 import android.graphics.drawable.BitmapDrawable;
 import android.util.Log;
 
-import com.hyphenate.chatuidemo.BuildConfig;
+import com.hyphenate.chatuidemo.app.chat.BuildConfig;
 
 public class RecyclingBitmapDrawable extends BitmapDrawable {
 	static final String TAG = "CountingBitmapDrawable";

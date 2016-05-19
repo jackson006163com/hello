@@ -11,14 +11,14 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hyphenate.chatuidemo.ui;
+package com.hyphenate.chatuidemo.app.chat.ui;
 
 import com.hyphenate.EMCallBack;
 import com.hyphenate.chat.EMClient;
-import com.hyphenate.chatuidemo.DemoApplication;
-import com.hyphenate.chatuidemo.DemoHelper;
-import com.hyphenate.chatuidemo.R;
-import com.hyphenate.chatuidemo.db.DemoDBManager;
+import com.hyphenate.chatuidemo.app.chat.DemoApplication;
+import com.hyphenate.chatuidemo.app.chat.DemoHelper;
+import com.hyphenate.chatuidemo.app.chat.R;
+import com.hyphenate.chatuidemo.app.chat.db.DemoDBManager;
 import com.hyphenate.easeui.lib.easeui.utils.EaseCommonUtils;
 
 import android.app.ProgressDialog;

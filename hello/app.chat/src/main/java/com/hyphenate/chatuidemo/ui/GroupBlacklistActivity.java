@@ -1,10 +1,10 @@
-package com.hyphenate.chatuidemo.ui;
+package com.hyphenate.chatuidemo.app.chat.ui;
 
 import java.util.Collections;
 import java.util.List;
 
 import com.hyphenate.chat.EMClient;
-import com.hyphenate.chatuidemo.R;
+import com.hyphenate.chatuidemo.app.chat.R;
 import com.hyphenate.exceptions.HyphenateException;
 
 import android.content.Context;

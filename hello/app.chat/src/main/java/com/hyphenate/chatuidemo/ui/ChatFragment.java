@@ -1,4 +1,4 @@
-package com.hyphenate.chatuidemo.ui;
+package com.hyphenate.chatuidemo.app.chat.ui;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -8,12 +8,12 @@ import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMGroup;
 import com.hyphenate.chat.EMMessage;
 import com.hyphenate.chat.EMTextMessageBody;
-import com.hyphenate.chatuidemo.Constant;
-import com.hyphenate.chatuidemo.DemoHelper;
-import com.hyphenate.chatuidemo.R;
-import com.hyphenate.chatuidemo.domain.EmojiconExampleGroupData;
-import com.hyphenate.chatuidemo.domain.RobotUser;
-import com.hyphenate.chatuidemo.widget.ChatRowVoiceCall;
+import com.hyphenate.chatuidemo.app.chat.Constant;
+import com.hyphenate.chatuidemo.app.chat.DemoHelper;
+import com.hyphenate.chatuidemo.app.chat.R;
+import com.hyphenate.chatuidemo.app.chat.domain.EmojiconExampleGroupData;
+import com.hyphenate.chatuidemo.app.chat.domain.RobotUser;
+import com.hyphenate.chatuidemo.app.chat.widget.ChatRowVoiceCall;
 import com.hyphenate.easeui.lib.easeui.ui.EaseChatFragment;
 import com.hyphenate.easeui.lib.easeui.ui.EaseChatFragment.EaseChatFragmentListener;
 import com.hyphenate.easeui.lib.easeui.widget.chatrow.EaseChatRow;
