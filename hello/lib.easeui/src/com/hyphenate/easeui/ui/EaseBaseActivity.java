@@ -12,14 +12,14 @@
  * limitations under the License.
  */
 
-package com.hyphenate.easeui.ui;
+package com.hyphenate.easeui.lib.easeui.ui;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 import android.view.View;
 
-import com.hyphenate.easeui.controller.EaseUI;
+import com.hyphenate.easeui.lib.easeui.controller.EaseUI;
 
 public class EaseBaseActivity extends FragmentActivity {
 

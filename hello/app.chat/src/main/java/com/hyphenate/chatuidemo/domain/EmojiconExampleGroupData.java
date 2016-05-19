@@ -3,9 +3,9 @@ package com.hyphenate.chatuidemo.domain;
 import java.util.Arrays;
 
 import com.hyphenate.chatuidemo.R;
-import com.hyphenate.easeui.domain.EaseEmojicon;
-import com.hyphenate.easeui.domain.EaseEmojicon.Type;
-import com.hyphenate.easeui.domain.EaseEmojiconGroupEntity;
+import com.hyphenate.easeui.lib.easeui.domain.EaseEmojicon;
+import com.hyphenate.easeui.lib.easeui.domain.EaseEmojicon.Type;
+import com.hyphenate.easeui.lib.easeui.domain.EaseEmojiconGroupEntity;
 
 public class EmojiconExampleGroupData {
     

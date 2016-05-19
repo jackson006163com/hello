@@ -1,4 +1,4 @@
-package com.hyphenate.easeui.controller;
+package com.hyphenate.easeui.lib.easeui.controller;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -8,9 +8,9 @@ import java.util.Map;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMMessage;
 import com.hyphenate.chat.EMOptions;
-import com.hyphenate.easeui.domain.EaseEmojicon;
-import com.hyphenate.easeui.domain.EaseUser;
-import com.hyphenate.easeui.model.EaseNotifier;
+import com.hyphenate.easeui.lib.easeui.domain.EaseEmojicon;
+import com.hyphenate.easeui.lib.easeui.domain.EaseUser;
+import com.hyphenate.easeui.lib.easeui.model.EaseNotifier;
 
 import android.app.Activity;
 import android.app.ActivityManager;

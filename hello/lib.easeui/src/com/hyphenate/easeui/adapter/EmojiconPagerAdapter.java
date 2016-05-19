@@ -1,4 +1,4 @@
-package com.hyphenate.easeui.adapter;
+package com.hyphenate.easeui.lib.easeui.adapter;
 
 import java.util.List;
 

@@ -14,11 +14,11 @@ import com.hyphenate.chatuidemo.R;
 import com.hyphenate.chatuidemo.domain.EmojiconExampleGroupData;
 import com.hyphenate.chatuidemo.domain.RobotUser;
 import com.hyphenate.chatuidemo.widget.ChatRowVoiceCall;
-import com.hyphenate.easeui.ui.EaseChatFragment;
-import com.hyphenate.easeui.ui.EaseChatFragment.EaseChatFragmentListener;
-import com.hyphenate.easeui.widget.chatrow.EaseChatRow;
-import com.hyphenate.easeui.widget.chatrow.EaseCustomChatRowProvider;
-import com.hyphenate.easeui.widget.emojicon.EaseEmojiconMenu;
+import com.hyphenate.easeui.lib.easeui.ui.EaseChatFragment;
+import com.hyphenate.easeui.lib.easeui.ui.EaseChatFragment.EaseChatFragmentListener;
+import com.hyphenate.easeui.lib.easeui.widget.chatrow.EaseChatRow;
+import com.hyphenate.easeui.lib.easeui.widget.chatrow.EaseCustomChatRowProvider;
+import com.hyphenate.easeui.lib.easeui.widget.emojicon.EaseEmojiconMenu;
 import com.hyphenate.util.EasyUtils;
 import com.hyphenate.util.PathUtil;
 

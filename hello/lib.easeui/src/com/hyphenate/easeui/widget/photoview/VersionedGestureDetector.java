@@ -11,7 +11,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hyphenate.easeui.widget.photoview;
+package com.hyphenate.easeui.lib.easeui.widget.photoview;
 
 /*******************************************************************************
  * Copyright 2011, 2012 Chris Banes.

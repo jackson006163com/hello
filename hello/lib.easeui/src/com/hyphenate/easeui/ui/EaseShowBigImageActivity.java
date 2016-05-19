@@ -11,7 +11,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hyphenate.easeui.ui;
+package com.hyphenate.easeui.lib.easeui.ui;
 
 import java.io.File;
 import java.util.HashMap;
@@ -32,10 +32,10 @@ import android.widget.ProgressBar;
 import com.hyphenate.EMCallBack;
 import com.hyphenate.chat.EMChatManager;
 import com.hyphenate.chat.EMClient;
-import com.hyphenate.easeui.R;
-import com.hyphenate.easeui.model.EaseImageCache;
-import com.hyphenate.easeui.utils.EaseLoadLocalBigImgTask;
-import com.hyphenate.easeui.widget.photoview.EasePhotoView;
+import com.hyphenate.easeui.lib.easeui.R;
+import com.hyphenate.easeui.lib.easeui.model.EaseImageCache;
+import com.hyphenate.easeui.lib.easeui.utils.EaseLoadLocalBigImgTask;
+import com.hyphenate.easeui.lib.easeui.widget.photoview.EasePhotoView;
 import com.hyphenate.util.EMLog;
 import com.hyphenate.util.ImageUtils;
 import com.hyphenate.util.PathUtil;

@@ -1,4 +1,4 @@
-package com.hyphenate.easeui.widget.chatrow;
+package com.hyphenate.easeui.lib.easeui.widget.chatrow;
 
 import java.io.File;
 
@@ -7,11 +7,11 @@ import com.hyphenate.chat.EMFileMessageBody;
 import com.hyphenate.chat.EMImageMessageBody;
 import com.hyphenate.chat.EMMessage;
 import com.hyphenate.chat.EMMessage.ChatType;
-import com.hyphenate.easeui.R;
-import com.hyphenate.easeui.model.EaseImageCache;
-import com.hyphenate.easeui.ui.EaseShowBigImageActivity;
-import com.hyphenate.easeui.utils.EaseCommonUtils;
-import com.hyphenate.easeui.utils.EaseImageUtils;
+import com.hyphenate.easeui.lib.easeui.R;
+import com.hyphenate.easeui.lib.easeui.model.EaseImageCache;
+import com.hyphenate.easeui.lib.easeui.ui.EaseShowBigImageActivity;
+import com.hyphenate.easeui.lib.easeui.utils.EaseCommonUtils;
+import com.hyphenate.easeui.lib.easeui.utils.EaseImageUtils;
 import com.hyphenate.util.EMLog;
 
 import android.content.Context;

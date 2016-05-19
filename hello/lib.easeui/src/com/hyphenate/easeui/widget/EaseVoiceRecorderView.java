@@ -1,4 +1,4 @@
-package com.hyphenate.easeui.widget;
+package com.hyphenate.easeui.lib.easeui.widget;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -15,10 +15,10 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.hyphenate.EMError;
-import com.hyphenate.easeui.R;
-import com.hyphenate.easeui.model.EaseVoiceRecorder;
-import com.hyphenate.easeui.utils.EaseCommonUtils;
-import com.hyphenate.easeui.widget.chatrow.EaseChatRowVoicePlayClickListener;
+import com.hyphenate.easeui.lib.easeui.R;
+import com.hyphenate.easeui.lib.easeui.model.EaseVoiceRecorder;
+import com.hyphenate.easeui.lib.easeui.utils.EaseCommonUtils;
+import com.hyphenate.easeui.lib.easeui.widget.chatrow.EaseChatRowVoicePlayClickListener;
 
 /**
  * 按住说话录制控件

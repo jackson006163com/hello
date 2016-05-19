@@ -1,4 +1,4 @@
-package com.hyphenate.easeui.widget;
+package com.hyphenate.easeui.lib.easeui.widget;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 
-import com.hyphenate.easeui.R;
+import com.hyphenate.easeui.lib.easeui.R;
 
 public class EaseSwitchButton extends FrameLayout{
 

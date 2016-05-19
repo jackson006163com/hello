@@ -11,7 +11,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hyphenate.easeui.ui;
+package com.hyphenate.easeui.lib.easeui.ui;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -24,10 +24,10 @@ import java.util.Map.Entry;
 import com.hyphenate.EMConnectionListener;
 import com.hyphenate.EMError;
 import com.hyphenate.chat.EMClient;
-import com.hyphenate.easeui.R;
-import com.hyphenate.easeui.domain.EaseUser;
-import com.hyphenate.easeui.utils.EaseCommonUtils;
-import com.hyphenate.easeui.widget.EaseContactList;
+import com.hyphenate.easeui.lib.easeui.R;
+import com.hyphenate.easeui.lib.easeui.domain.EaseUser;
+import com.hyphenate.easeui.lib.easeui.utils.EaseCommonUtils;
+import com.hyphenate.easeui.lib.easeui.widget.EaseContactList;
 import com.hyphenate.exceptions.HyphenateException;
 
 import android.app.ProgressDialog;

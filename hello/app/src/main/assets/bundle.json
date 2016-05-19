@@ -3,7 +3,7 @@
   "bundles": [
     {
       "uri": "easeui",
-      "pkg": "com.hyphenate.easeui"
+      "pkg": "com.hyphenate.easeui.lib.easeui"
     },
     {
       "uri": "chat",

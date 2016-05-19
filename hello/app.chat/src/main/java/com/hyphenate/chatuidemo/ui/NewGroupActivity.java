@@ -17,7 +17,7 @@ import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMGroupManager.EMGroupOptions;
 import com.hyphenate.chat.EMGroupManager.EMGroupStyle;
 import com.hyphenate.chatuidemo.R;
-import com.hyphenate.easeui.widget.EaseAlertDialog;
+import com.hyphenate.easeui.lib.easeui.widget.EaseAlertDialog;
 import com.hyphenate.exceptions.HyphenateException;
 
 import android.app.ProgressDialog;

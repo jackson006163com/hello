@@ -1,4 +1,4 @@
-package com.hyphenate.easeui.widget.emojicon;
+package com.hyphenate.easeui.lib.easeui.widget.emojicon;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -11,11 +11,11 @@ import android.util.AttributeSet;
 import android.view.LayoutInflater;
 import android.view.View;
 
-import com.hyphenate.easeui.R;
-import com.hyphenate.easeui.domain.EaseEmojicon;
-import com.hyphenate.easeui.domain.EaseEmojiconGroupEntity;
-import com.hyphenate.easeui.widget.emojicon.EaseEmojiconPagerView.EaseEmojiconPagerViewListener;
-import com.hyphenate.easeui.widget.emojicon.EaseEmojiconScrollTabBar.EaseScrollTabBarItemClickListener;
+import com.hyphenate.easeui.lib.easeui.R;
+import com.hyphenate.easeui.lib.easeui.domain.EaseEmojicon;
+import com.hyphenate.easeui.lib.easeui.domain.EaseEmojiconGroupEntity;
+import com.hyphenate.easeui.lib.easeui.widget.emojicon.EaseEmojiconPagerView.EaseEmojiconPagerViewListener;
+import com.hyphenate.easeui.lib.easeui.widget.emojicon.EaseEmojiconScrollTabBar.EaseScrollTabBarItemClickListener;
 
 /**
  * 表情图片控件

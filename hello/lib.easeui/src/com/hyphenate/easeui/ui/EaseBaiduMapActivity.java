@@ -11,7 +11,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hyphenate.easeui.ui;
+package com.hyphenate.easeui.lib.easeui.ui;
 
 import android.app.ProgressDialog;
 import android.content.BroadcastReceiver;
@@ -47,7 +47,7 @@ import com.baidu.mapapi.map.MyLocationConfiguration.LocationMode;
 import com.baidu.mapapi.map.OverlayOptions;
 import com.baidu.mapapi.model.LatLng;
 import com.baidu.mapapi.utils.CoordinateConverter;
-import com.hyphenate.easeui.R;
+import com.hyphenate.easeui.lib.easeui.R;
 
 public class EaseBaiduMapActivity extends EaseBaseActivity {
 

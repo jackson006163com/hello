@@ -1,4 +1,4 @@
-package com.hyphenate.easeui.ui;
+package com.hyphenate.easeui.lib.easeui.ui;
 
 import java.io.File;
 import java.util.HashMap;
@@ -8,7 +8,7 @@ import com.hyphenate.EMCallBack;
 import com.hyphenate.chat.EMChatManager;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMFileMessageBody;
-import com.hyphenate.easeui.R;
+import com.hyphenate.easeui.lib.easeui.R;
 import com.hyphenate.util.FileUtils;
 
 import android.os.Bundle;

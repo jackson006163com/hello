@@ -11,7 +11,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hyphenate.easeui.utils;
+package com.hyphenate.easeui.lib.easeui.utils;
 
 import com.hyphenate.util.EMLog;
 import com.hyphenate.util.PathUtil;

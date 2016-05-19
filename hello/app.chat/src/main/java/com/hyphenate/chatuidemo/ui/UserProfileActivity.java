@@ -7,8 +7,8 @@ import com.hyphenate.EMValueCallBack;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chatuidemo.DemoHelper;
 import com.hyphenate.chatuidemo.R;
-import com.hyphenate.easeui.domain.EaseUser;
-import com.hyphenate.easeui.utils.EaseUserUtils;
+import com.hyphenate.easeui.lib.easeui.domain.EaseUser;
+import com.hyphenate.easeui.lib.easeui.utils.EaseUserUtils;
 
 import android.app.AlertDialog;
 import android.app.AlertDialog.Builder;

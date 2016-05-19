@@ -11,7 +11,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hyphenate.easeui.widget.chatrow;
+package com.hyphenate.easeui.lib.easeui.widget.chatrow;
 
 import java.io.File;
 
@@ -20,8 +20,8 @@ import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMMessage;
 import com.hyphenate.chat.EMMessage.ChatType;
 import com.hyphenate.chat.EMVoiceMessageBody;
-import com.hyphenate.easeui.R;
-import com.hyphenate.easeui.controller.EaseUI;
+import com.hyphenate.easeui.lib.easeui.R;
+import com.hyphenate.easeui.lib.easeui.controller.EaseUI;
 import com.hyphenate.util.EMLog;
 
 import android.app.Activity;

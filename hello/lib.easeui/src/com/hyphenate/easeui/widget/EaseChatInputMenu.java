@@ -1,4 +1,4 @@
-package com.hyphenate.easeui.widget;
+package com.hyphenate.easeui.lib.easeui.widget;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -13,16 +13,16 @@ import android.view.View;
 import android.widget.FrameLayout;
 import android.widget.LinearLayout;
 
-import com.hyphenate.easeui.R;
-import com.hyphenate.easeui.domain.EaseEmojicon;
-import com.hyphenate.easeui.domain.EaseEmojiconGroupEntity;
-import com.hyphenate.easeui.model.EaseDefaultEmojiconDatas;
-import com.hyphenate.easeui.utils.EaseSmileUtils;
-import com.hyphenate.easeui.widget.EaseChatExtendMenu.EaseChatExtendMenuItemClickListener;
-import com.hyphenate.easeui.widget.EaseChatPrimaryMenuBase.EaseChatPrimaryMenuListener;
-import com.hyphenate.easeui.widget.emojicon.EaseEmojiconMenu;
-import com.hyphenate.easeui.widget.emojicon.EaseEmojiconMenuBase;
-import com.hyphenate.easeui.widget.emojicon.EaseEmojiconMenuBase.EaseEmojiconMenuListener;
+import com.hyphenate.easeui.lib.easeui.R;
+import com.hyphenate.easeui.lib.easeui.domain.EaseEmojicon;
+import com.hyphenate.easeui.lib.easeui.domain.EaseEmojiconGroupEntity;
+import com.hyphenate.easeui.lib.easeui.model.EaseDefaultEmojiconDatas;
+import com.hyphenate.easeui.lib.easeui.utils.EaseSmileUtils;
+import com.hyphenate.easeui.lib.easeui.widget.EaseChatExtendMenu.EaseChatExtendMenuItemClickListener;
+import com.hyphenate.easeui.lib.easeui.widget.EaseChatPrimaryMenuBase.EaseChatPrimaryMenuListener;
+import com.hyphenate.easeui.lib.easeui.widget.emojicon.EaseEmojiconMenu;
+import com.hyphenate.easeui.lib.easeui.widget.emojicon.EaseEmojiconMenuBase;
+import com.hyphenate.easeui.lib.easeui.widget.emojicon.EaseEmojiconMenuBase.EaseEmojiconMenuListener;
 
 /**
  * 聊天页面底部的聊天输入菜单栏 <br/>

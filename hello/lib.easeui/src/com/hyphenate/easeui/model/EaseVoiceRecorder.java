@@ -1,4 +1,4 @@
-package com.hyphenate.easeui.model;
+package com.hyphenate.easeui.lib.easeui.model;
 
 import java.io.File;
 import java.io.IOException;

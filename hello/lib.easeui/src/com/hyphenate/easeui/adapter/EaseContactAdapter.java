@@ -1,4 +1,4 @@
-package com.hyphenate.easeui.adapter;
+package com.hyphenate.easeui.lib.easeui.adapter;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -18,9 +18,9 @@ import android.widget.ImageView;
 import android.widget.SectionIndexer;
 import android.widget.TextView;
 
-import com.hyphenate.easeui.R;
-import com.hyphenate.easeui.domain.EaseUser;
-import com.hyphenate.easeui.utils.EaseUserUtils;
+import com.hyphenate.easeui.lib.easeui.R;
+import com.hyphenate.easeui.lib.easeui.domain.EaseUser;
+import com.hyphenate.easeui.lib.easeui.utils.EaseUserUtils;
 import com.hyphenate.util.EMLog;
 
 public class EaseContactAdapter extends ArrayAdapter<EaseUser> implements SectionIndexer{

@@ -41,10 +41,10 @@ import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMConversation;
 import com.hyphenate.chat.EMConversation.EMConversationType;
 import com.hyphenate.chatuidemo.R;
-import com.hyphenate.easeui.utils.EaseUserUtils;
-import com.hyphenate.easeui.widget.EaseAlertDialog;
-import com.hyphenate.easeui.widget.EaseAlertDialog.AlertDialogUser;
-import com.hyphenate.easeui.widget.EaseExpandGridView;
+import com.hyphenate.easeui.lib.easeui.utils.EaseUserUtils;
+import com.hyphenate.easeui.lib.easeui.widget.EaseAlertDialog;
+import com.hyphenate.easeui.lib.easeui.widget.EaseAlertDialog.AlertDialogUser;
+import com.hyphenate.easeui.lib.easeui.widget.EaseExpandGridView;
 import com.hyphenate.util.EMLog;
 import com.hyphenate.util.NetUtils;
 

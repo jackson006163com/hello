@@ -23,8 +23,8 @@ import com.hyphenate.chatuidemo.R;
 import com.hyphenate.chatuidemo.db.InviteMessgeDao;
 import com.hyphenate.chatuidemo.db.UserDao;
 import com.hyphenate.chatuidemo.widget.ContactItemView;
-import com.hyphenate.easeui.domain.EaseUser;
-import com.hyphenate.easeui.ui.EaseContactListFragment;
+import com.hyphenate.easeui.lib.easeui.domain.EaseUser;
+import com.hyphenate.easeui.lib.easeui.ui.EaseContactListFragment;
 import com.hyphenate.util.EMLog;
 
 import android.app.ProgressDialog;

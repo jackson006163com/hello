@@ -11,7 +11,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hyphenate.easeui.utils;
+package com.hyphenate.easeui.lib.easeui.utils;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -20,9 +20,9 @@ import android.os.AsyncTask;
 import android.view.View;
 import android.widget.ProgressBar;
 
-import com.hyphenate.easeui.R;
-import com.hyphenate.easeui.model.EaseImageCache;
-import com.hyphenate.easeui.widget.photoview.EasePhotoView;
+import com.hyphenate.easeui.lib.easeui.R;
+import com.hyphenate.easeui.lib.easeui.model.EaseImageCache;
+import com.hyphenate.easeui.lib.easeui.widget.photoview.EasePhotoView;
 import com.hyphenate.util.ImageUtils;
 
 public class EaseLoadLocalBigImgTask extends AsyncTask<Void, Void, Bitmap> {

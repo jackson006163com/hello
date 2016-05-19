@@ -53,7 +53,7 @@ import android.widget.VideoView;
 
 import com.hyphenate.chatuidemo.R;
 import com.hyphenate.chatuidemo.video.util.Utils;
-import com.hyphenate.easeui.utils.EaseCommonUtils;
+import com.hyphenate.easeui.lib.easeui.utils.EaseCommonUtils;
 import com.hyphenate.util.EMLog;
 import com.hyphenate.util.PathUtil;
 

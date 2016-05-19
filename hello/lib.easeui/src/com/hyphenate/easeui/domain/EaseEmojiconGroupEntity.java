@@ -1,8 +1,8 @@
-package com.hyphenate.easeui.domain;
+package com.hyphenate.easeui.lib.easeui.domain;
 
 import java.util.List;
 
-import com.hyphenate.easeui.domain.EaseEmojicon.Type;
+import com.hyphenate.easeui.lib.easeui.domain.EaseEmojicon.Type;
 
 /**
  * 一组表情所对应的实体类

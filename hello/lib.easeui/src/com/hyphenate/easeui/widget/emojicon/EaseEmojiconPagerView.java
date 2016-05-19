@@ -1,4 +1,4 @@
-package com.hyphenate.easeui.widget.emojicon;
+package com.hyphenate.easeui.lib.easeui.widget.emojicon;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -12,13 +12,13 @@ import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.GridView;
 
-import com.hyphenate.easeui.R;
-import com.hyphenate.easeui.adapter.EmojiconGridAdapter;
-import com.hyphenate.easeui.adapter.EmojiconPagerAdapter;
-import com.hyphenate.easeui.domain.EaseEmojicon;
-import com.hyphenate.easeui.domain.EaseEmojicon.Type;
-import com.hyphenate.easeui.domain.EaseEmojiconGroupEntity;
-import com.hyphenate.easeui.utils.EaseSmileUtils;
+import com.hyphenate.easeui.lib.easeui.R;
+import com.hyphenate.easeui.lib.easeui.adapter.EmojiconGridAdapter;
+import com.hyphenate.easeui.lib.easeui.adapter.EmojiconPagerAdapter;
+import com.hyphenate.easeui.lib.easeui.domain.EaseEmojicon;
+import com.hyphenate.easeui.lib.easeui.domain.EaseEmojicon.Type;
+import com.hyphenate.easeui.lib.easeui.domain.EaseEmojiconGroupEntity;
+import com.hyphenate.easeui.lib.easeui.utils.EaseSmileUtils;
 
 public class EaseEmojiconPagerView extends ViewPager{
 

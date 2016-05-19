@@ -3,8 +3,8 @@ package com.hyphenate.chatuidemo.widget;
 import com.hyphenate.chat.EMMessage;
 import com.hyphenate.chat.EMTextMessageBody;
 import com.hyphenate.chatuidemo.Constant;
-//import com.hyphenate.easeui.R;
-import com.hyphenate.easeui.widget.chatrow.EaseChatRow;
+//import com.hyphenate.easeui.lib.easeui.R;
+import com.hyphenate.easeui.lib.easeui.widget.chatrow.EaseChatRow;
 
 import android.content.Context;
 import android.widget.BaseAdapter;

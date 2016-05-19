@@ -1,4 +1,4 @@
-package com.hyphenate.easeui.adapter;
+package com.hyphenate.easeui.lib.easeui.adapter;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -25,11 +25,11 @@ import com.hyphenate.chat.EMConversation.EMConversationType;
 import com.hyphenate.chat.EMGroup;
 import com.hyphenate.chat.EMGroupManager;
 import com.hyphenate.chat.EMMessage;
-import com.hyphenate.easeui.R;
-import com.hyphenate.easeui.domain.EaseUser;
-import com.hyphenate.easeui.utils.EaseCommonUtils;
-import com.hyphenate.easeui.utils.EaseSmileUtils;
-import com.hyphenate.easeui.utils.EaseUserUtils;
+import com.hyphenate.easeui.lib.easeui.R;
+import com.hyphenate.easeui.lib.easeui.domain.EaseUser;
+import com.hyphenate.easeui.lib.easeui.utils.EaseCommonUtils;
+import com.hyphenate.easeui.lib.easeui.utils.EaseSmileUtils;
+import com.hyphenate.easeui.lib.easeui.utils.EaseUserUtils;
 import com.hyphenate.util.DateUtils;
 
 /**

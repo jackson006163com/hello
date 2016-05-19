@@ -1,11 +1,11 @@
-package com.hyphenate.easeui.widget.chatrow;
+package com.hyphenate.easeui.lib.easeui.widget.chatrow;
 
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMMessage;
 import com.hyphenate.chat.EMMessage.ChatType;
 import com.hyphenate.chat.EMTextMessageBody;
-import com.hyphenate.easeui.R;
-import com.hyphenate.easeui.utils.EaseSmileUtils;
+import com.hyphenate.easeui.lib.easeui.R;
+import com.hyphenate.easeui.lib.easeui.utils.EaseSmileUtils;
 import com.hyphenate.exceptions.HyphenateException;
 
 import android.content.Context;

@@ -1,9 +1,9 @@
-package com.hyphenate.easeui.model;
+package com.hyphenate.easeui.lib.easeui.model;
 
-import com.hyphenate.easeui.R;
-import com.hyphenate.easeui.domain.EaseEmojicon;
-import com.hyphenate.easeui.domain.EaseEmojicon.Type;
-import com.hyphenate.easeui.utils.EaseSmileUtils;
+import com.hyphenate.easeui.lib.easeui.R;
+import com.hyphenate.easeui.lib.easeui.domain.EaseEmojicon;
+import com.hyphenate.easeui.lib.easeui.domain.EaseEmojicon.Type;
+import com.hyphenate.easeui.lib.easeui.utils.EaseSmileUtils;
 
 public class EaseDefaultEmojiconDatas {
     

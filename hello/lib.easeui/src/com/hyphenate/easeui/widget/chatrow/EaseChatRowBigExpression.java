@@ -1,4 +1,4 @@
-package com.hyphenate.easeui.widget.chatrow;
+package com.hyphenate.easeui.lib.easeui.widget.chatrow;
 
 import android.content.Context;
 import android.widget.BaseAdapter;
@@ -7,10 +7,10 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 import com.hyphenate.chat.EMMessage;
-import com.hyphenate.easeui.EaseConstant;
-import com.hyphenate.easeui.R;
-import com.hyphenate.easeui.controller.EaseUI;
-import com.hyphenate.easeui.domain.EaseEmojicon;
+import com.hyphenate.easeui.lib.easeui.EaseConstant;
+import com.hyphenate.easeui.lib.easeui.R;
+import com.hyphenate.easeui.lib.easeui.controller.EaseUI;
+import com.hyphenate.easeui.lib.easeui.domain.EaseEmojicon;
 
 /**
  * 大表情(动态表情)

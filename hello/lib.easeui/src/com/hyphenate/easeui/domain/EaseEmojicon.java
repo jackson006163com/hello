@@ -1,4 +1,4 @@
-package com.hyphenate.easeui.domain;
+package com.hyphenate.easeui.lib.easeui.domain;
 
 public class EaseEmojicon {
     public EaseEmojicon(){

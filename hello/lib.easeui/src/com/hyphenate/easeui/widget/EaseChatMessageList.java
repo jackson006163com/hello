@@ -1,4 +1,4 @@
-package com.hyphenate.easeui.widget;
+package com.hyphenate.easeui.lib.easeui.widget;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -13,10 +13,10 @@ import com.hyphenate.chat.EMChatManager;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMConversation;
 import com.hyphenate.chat.EMMessage;
-import com.hyphenate.easeui.R;
-import com.hyphenate.easeui.adapter.EaseMessageAdapter;
-import com.hyphenate.easeui.utils.EaseCommonUtils;
-import com.hyphenate.easeui.widget.chatrow.EaseCustomChatRowProvider;
+import com.hyphenate.easeui.lib.easeui.R;
+import com.hyphenate.easeui.lib.easeui.adapter.EaseMessageAdapter;
+import com.hyphenate.easeui.lib.easeui.utils.EaseCommonUtils;
+import com.hyphenate.easeui.lib.easeui.widget.chatrow.EaseCustomChatRowProvider;
 
 public class EaseChatMessageList extends RelativeLayout{
     

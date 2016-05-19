@@ -1,7 +1,7 @@
 package com.hyphenate.chatuidemo.ui;
 
 import com.hyphenate.chatuidemo.R;
-import com.hyphenate.easeui.ui.EaseChatFragment;
+import com.hyphenate.easeui.lib.easeui.ui.EaseChatFragment;
 import com.hyphenate.util.EasyUtils;
 
 import android.content.Intent;

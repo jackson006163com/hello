@@ -1,6 +1,6 @@
-package com.hyphenate.easeui.widget.emojicon;
+package com.hyphenate.easeui.lib.easeui.widget.emojicon;
 
-import com.hyphenate.easeui.domain.EaseEmojicon;
+import com.hyphenate.easeui.lib.easeui.domain.EaseEmojicon;
 
 import android.annotation.SuppressLint;
 import android.content.Context;

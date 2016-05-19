@@ -19,7 +19,7 @@ import java.util.Map;
 import android.content.Context;
 
 import com.hyphenate.chatuidemo.domain.RobotUser;
-import com.hyphenate.easeui.domain.EaseUser;
+import com.hyphenate.easeui.lib.easeui.domain.EaseUser;
 
 public class UserDao {
 	public static final String TABLE_NAME = "uers";

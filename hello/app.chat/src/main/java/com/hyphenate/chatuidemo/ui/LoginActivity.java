@@ -19,7 +19,7 @@ import com.hyphenate.chatuidemo.DemoApplication;
 import com.hyphenate.chatuidemo.DemoHelper;
 import com.hyphenate.chatuidemo.R;
 import com.hyphenate.chatuidemo.db.DemoDBManager;
-import com.hyphenate.easeui.utils.EaseCommonUtils;
+import com.hyphenate.easeui.lib.easeui.utils.EaseCommonUtils;
 
 import android.app.ProgressDialog;
 import android.content.DialogInterface;

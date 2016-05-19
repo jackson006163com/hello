@@ -11,7 +11,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hyphenate.easeui.domain;
+package com.hyphenate.easeui.lib.easeui.domain;
 
 import com.hyphenate.chat.EMContact;
 

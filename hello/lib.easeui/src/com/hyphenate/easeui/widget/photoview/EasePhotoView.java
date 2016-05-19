@@ -26,7 +26,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  *******************************************************************************/
-package com.hyphenate.easeui.widget.photoview;
+package com.hyphenate.easeui.lib.easeui.widget.photoview;
 
 import android.content.Context;
 import android.graphics.RectF;
@@ -35,9 +35,9 @@ import android.net.Uri;
 import android.util.AttributeSet;
 import android.widget.ImageView;
 
-import com.hyphenate.easeui.widget.photoview.PhotoViewAttacher.OnMatrixChangedListener;
-import com.hyphenate.easeui.widget.photoview.PhotoViewAttacher.OnPhotoTapListener;
-import com.hyphenate.easeui.widget.photoview.PhotoViewAttacher.OnViewTapListener;
+import com.hyphenate.easeui.lib.easeui.widget.photoview.PhotoViewAttacher.OnMatrixChangedListener;
+import com.hyphenate.easeui.lib.easeui.widget.photoview.PhotoViewAttacher.OnPhotoTapListener;
+import com.hyphenate.easeui.lib.easeui.widget.photoview.PhotoViewAttacher.OnViewTapListener;
 
 public class EasePhotoView extends ImageView implements IPhotoView {
 

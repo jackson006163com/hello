@@ -83,6 +83,9 @@ import android.content.ContextWrapper;
 import java.lang.reflect.Method;
 import dalvik.system.DexClassLoader;
 
+import net.wequick.small.Small;
+
+
 public class KTMain extends Activity {
     
     private Button mANRKeyTimeoutButton;
@@ -213,6 +216,17 @@ public class KTMain extends Activity {
         return r;
     }
 */
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+        Small.setUp(this, new net.wequick.small.Small.OnCompleteListener() {
+            @Override
+            public void onComplete() {
+            }
+        });
+    }
+
     public void launchTestActivity()
     {
          Intent i = new Intent(this, TestActivity.class);
@@ -753,10 +767,16 @@ public class KTMain extends Activity {
 
     public void test()
     {
-        MyFile f = new MyFile();
-        f.readwriteBitmapFile();
-        Intent i = new Intent(this, com.main.surface.IrisActivity.class);
+        Log.d("locald","tttt ....qqq");
+        //Small.openUri("chat", this);
+        Intent i = new Intent();
+        i.setClassName(this, "com.hyphenate.chatuidemo.ui.SplashActivity");
         startActivity(i);
+
+        //MyFile f = new MyFile();
+        //f.readwriteBitmapFile();
+        //Intent i = new Intent(this, com.main.surface.IrisActivity.class);
+        //startActivity(i);
     	//testIris();
         //testANR();
         //Intent intent = new Intent("MyReceiver123");

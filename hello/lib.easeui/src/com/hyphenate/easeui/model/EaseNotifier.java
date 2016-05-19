@@ -9,7 +9,7 @@
  * is strictly forbidden unless prior written permission is obtained
  * from EaseMob Technologies.
  */
-package com.hyphenate.easeui.model;
+package com.hyphenate.easeui.lib.easeui.model;
 
 import java.util.HashSet;
 import java.util.List;
@@ -18,8 +18,8 @@ import java.util.Locale;
 import com.hyphenate.chat.EMChatManager;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMMessage;
-import com.hyphenate.easeui.controller.EaseUI;
-import com.hyphenate.easeui.controller.EaseUI.EaseSettingsProvider;
+import com.hyphenate.easeui.lib.easeui.controller.EaseUI;
+import com.hyphenate.easeui.lib.easeui.controller.EaseUI.EaseSettingsProvider;
 import com.hyphenate.util.EMLog;
 import com.hyphenate.util.EasyUtils;
 

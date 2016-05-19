@@ -20,7 +20,7 @@ import com.hyphenate.chatuidemo.Constant;
 import com.hyphenate.chatuidemo.DemoHelper;
 import com.hyphenate.chatuidemo.DemoModel;
 import com.hyphenate.chatuidemo.R;
-import com.hyphenate.easeui.widget.EaseSwitchButton;
+import com.hyphenate.easeui.lib.easeui.widget.EaseSwitchButton;
 
 import android.app.ProgressDialog;
 import android.content.Intent;

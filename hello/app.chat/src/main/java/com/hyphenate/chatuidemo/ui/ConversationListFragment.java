@@ -19,7 +19,7 @@ import com.hyphenate.chat.EMConversation.EMConversationType;
 import com.hyphenate.chatuidemo.Constant;
 import com.hyphenate.chatuidemo.R;
 import com.hyphenate.chatuidemo.db.InviteMessgeDao;
-import com.hyphenate.easeui.ui.EaseConversationListFragment;
+import com.hyphenate.easeui.lib.easeui.ui.EaseConversationListFragment;
 import com.hyphenate.util.NetUtils;
 
 public class ConversationListFragment extends EaseConversationListFragment{

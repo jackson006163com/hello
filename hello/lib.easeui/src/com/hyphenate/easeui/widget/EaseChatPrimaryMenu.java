@@ -1,4 +1,4 @@
-package com.hyphenate.easeui.widget;
+package com.hyphenate.easeui.lib.easeui.widget;
 
 import android.content.Context;
 import android.text.Editable;
@@ -15,7 +15,7 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 
-import com.hyphenate.easeui.R;
+import com.hyphenate.easeui.lib.easeui.R;
 
 /**
  * 聊天输入栏主菜单栏

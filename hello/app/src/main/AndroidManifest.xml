@@ -18,7 +18,8 @@
     <permission android:protectionLevel="normal" android:name="com.main.testpermission">
     </permission>
 
-    <application android:icon="@drawable/icon" android:label="@string/app_name">
+    <application android:icon="@drawable/icon" android:label="@string/app_name"
+        android:name=".Application">
 
         <activity android:name="KTMain"
                   android:label="@string/app_name">

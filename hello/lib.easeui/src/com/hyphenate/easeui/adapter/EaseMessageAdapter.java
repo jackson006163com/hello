@@ -11,7 +11,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hyphenate.easeui.adapter;
+package com.hyphenate.easeui.lib.easeui.adapter;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -26,18 +26,18 @@ import com.hyphenate.chat.EMChatManager;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMConversation;
 import com.hyphenate.chat.EMMessage;
-import com.hyphenate.easeui.EaseConstant;
-import com.hyphenate.easeui.utils.EaseCommonUtils;
-import com.hyphenate.easeui.widget.EaseChatMessageList.MessageListItemClickListener;
-import com.hyphenate.easeui.widget.chatrow.EaseChatRow;
-import com.hyphenate.easeui.widget.chatrow.EaseChatRowBigExpression;
-import com.hyphenate.easeui.widget.chatrow.EaseChatRowFile;
-import com.hyphenate.easeui.widget.chatrow.EaseChatRowImage;
-import com.hyphenate.easeui.widget.chatrow.EaseChatRowLocation;
-import com.hyphenate.easeui.widget.chatrow.EaseChatRowText;
-import com.hyphenate.easeui.widget.chatrow.EaseChatRowVideo;
-import com.hyphenate.easeui.widget.chatrow.EaseChatRowVoice;
-import com.hyphenate.easeui.widget.chatrow.EaseCustomChatRowProvider;
+import com.hyphenate.easeui.lib.easeui.EaseConstant;
+import com.hyphenate.easeui.lib.easeui.utils.EaseCommonUtils;
+import com.hyphenate.easeui.lib.easeui.widget.EaseChatMessageList.MessageListItemClickListener;
+import com.hyphenate.easeui.lib.easeui.widget.chatrow.EaseChatRow;
+import com.hyphenate.easeui.lib.easeui.widget.chatrow.EaseChatRowBigExpression;
+import com.hyphenate.easeui.lib.easeui.widget.chatrow.EaseChatRowFile;
+import com.hyphenate.easeui.lib.easeui.widget.chatrow.EaseChatRowImage;
+import com.hyphenate.easeui.lib.easeui.widget.chatrow.EaseChatRowLocation;
+import com.hyphenate.easeui.lib.easeui.widget.chatrow.EaseChatRowText;
+import com.hyphenate.easeui.lib.easeui.widget.chatrow.EaseChatRowVideo;
+import com.hyphenate.easeui.lib.easeui.widget.chatrow.EaseChatRowVoice;
+import com.hyphenate.easeui.lib.easeui.widget.chatrow.EaseCustomChatRowProvider;
 
 public class EaseMessageAdapter extends BaseAdapter{
 

@@ -5,7 +5,7 @@ import java.util.List;
 
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chatuidemo.R;
-import com.hyphenate.easeui.utils.EaseUserUtils;
+import com.hyphenate.easeui.lib.easeui.utils.EaseUserUtils;
 import com.hyphenate.exceptions.HyphenateException;
 
 import android.app.Activity;

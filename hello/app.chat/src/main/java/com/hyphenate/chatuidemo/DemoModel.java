@@ -9,7 +9,7 @@ import android.content.Context;
 import com.hyphenate.chatuidemo.db.UserDao;
 import com.hyphenate.chatuidemo.domain.RobotUser;
 import com.hyphenate.chatuidemo.utils.PreferenceManager;
-import com.hyphenate.easeui.domain.EaseUser;
+import com.hyphenate.easeui.lib.easeui.domain.EaseUser;
 
 public class DemoModel {
     UserDao dao = null;
