@@ -2,6 +2,10 @@
   "version": "1.0.0",
   "bundles": [
     {
+      "uri": "easeui",
+      "pkg": "com.hyphenate.easeui"
+    },
+    {
       "uri": "chat",
       "pkg": "com.hyphenate.chatuidemo"
     }

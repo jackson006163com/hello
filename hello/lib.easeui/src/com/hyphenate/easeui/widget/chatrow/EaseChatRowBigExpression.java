@@ -34,7 +34,7 @@ public class EaseChatRowBigExpression extends EaseChatRowText{
     @Override
     protected void onFindViewById() {
         percentageView = (TextView) findViewById(R.id.percentage);
-        imageView = (ImageView) findViewById(R.id.image);
+        //imageView = (ImageView) findViewById(R.id.image);
     }
 
 
