@@ -3,7 +3,7 @@ package com.hyphenate.chatuidemo.widget;
 import com.hyphenate.chat.EMMessage;
 import com.hyphenate.chat.EMTextMessageBody;
 import com.hyphenate.chatuidemo.Constant;
-import com.hyphenate.easeui.R;
+//import com.hyphenate.easeui.R;
 import com.hyphenate.easeui.widget.chatrow.EaseChatRow;
 
 import android.content.Context;
@@ -22,6 +22,7 @@ public class ChatRowVoiceCall extends EaseChatRow{
 
     @Override
     protected void onInflatView() {
+        /*
         if (message.getBooleanAttribute(Constant.MESSAGE_ATTR_IS_VOICE_CALL, false)){
             inflater.inflate(message.direct() == EMMessage.Direct.RECEIVE ?
                     R.layout.ease_row_received_voice_call : R.layout.ease_row_sent_voice_call, this);
@@ -29,13 +30,14 @@ public class ChatRowVoiceCall extends EaseChatRow{
         }else if (message.getBooleanAttribute(Constant.MESSAGE_ATTR_IS_VIDEO_CALL, false)){
             inflater.inflate(message.direct() == EMMessage.Direct.RECEIVE ?
                     R.layout.ease_row_received_video_call : R.layout.ease_row_sent_video_call, this);
-        }
+        }*/
     }
 
     @Override
     protected void onFindViewById() {
+        /*
         contentvView = (TextView) findViewById(R.id.tv_chatcontent);
-        iconView = (ImageView) findViewById(R.id.iv_call_icon);
+        iconView = (ImageView) findViewById(R.id.iv_call_icon);*/
     }
 
     @Override
