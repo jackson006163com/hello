@@ -1,2 +1,1 @@
-include ':app', ':app.chat'
-include ':lib.easeui'
+include ':app', ':app.chat', ':EaseUI-release'

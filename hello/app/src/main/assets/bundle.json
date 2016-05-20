@@ -2,12 +2,11 @@
   "version": "1.0.0",
   "bundles": [
     {
-      "uri": "easeui",
-      "pkg": "com.hyphenate.easeui.lib.easeui"
-    },
-    {
       "uri": "chat",
-      "pkg": "com.hyphenate.chatuidemo.app.chat"
+      "pkg": "com.hyphenate.chatuidemo.app.chat",
+      "rules": {
+        "splash": ".ui.Splash"
+      }
     }
   ]
 }
