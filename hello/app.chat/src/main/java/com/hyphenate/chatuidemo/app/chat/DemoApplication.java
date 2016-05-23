@@ -18,10 +18,12 @@ import android.content.Context;
 
 import com.hyphenate.EMCallBack;
 
-public class DemoApplication extends Application {
+
+
+public class DemoApplication {
 
 	public static Context applicationContext;
-	private static DemoApplication instance;
+	private static Application instance;
 	// login user name
 	public final String PREF_USERNAME = "username";
 	
@@ -29,7 +31,7 @@ public class DemoApplication extends Application {
 	 * 当前用户nickname,为了苹果推送不是userid而是昵称
 	 */
 	public static String currentUserNick = "";
-
+/*
 	@Override
 	public void onCreate() {
 		super.onCreate();
@@ -38,14 +40,19 @@ public class DemoApplication extends Application {
         
         //init demo helper
         DemoHelper.getInstance().init(applicationContext);
-	}
+	}*/
 
-	public static DemoApplication getInstance() {
+	public static Application getInstance() {
 		return instance;
 	}
 
+	public static void init(Application app, Context c) {
+		applicationContext = c;
+		instance = app;
+	}
+/*
 	@Override
 	protected void attachBaseContext(Context base) {
-		super.attachBaseContext(base);
-	}
+		instance.attachBaseContext(base);
+	}*/
 }

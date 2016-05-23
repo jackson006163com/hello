@@ -13,6 +13,7 @@ import android.widget.TextView;
 import com.hyphenate.chat.EMChatManager;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMGroupManager;
+import com.hyphenate.chatuidemo.app.chat.DemoApplication;
 import com.hyphenate.chatuidemo.app.chat.DemoHelper;
 import com.hyphenate.chatuidemo.app.chat.R;
 
@@ -33,6 +34,7 @@ public class SplashActivity extends BaseActivity {
 
         Log.d("locald","SplashActivity on create ..");
 		DemoHelper.getInstance().init(getApplicationContext());
+		DemoApplication.init(getApplication(), getApplicationContext());
 
 		rootLayout = (RelativeLayout) findViewById(R.id.splash_root);
 		versionText = (TextView) findViewById(R.id.tv_version);
