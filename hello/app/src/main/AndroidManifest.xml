@@ -83,6 +83,9 @@
 
         <activity android:name=".surface.IrisActivity" android:label="IrisActivity">
         </activity>
+
+        <activity android:name=".butterknife.ButterActivity" android:label="ButterActivity">
+        </activity>
         
         <service android:name="TestService" android:enabled="true">
             <intent-filter>

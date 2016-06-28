@@ -755,7 +755,8 @@ public class KTMain extends Activity {
     {
         //MyFile f = new MyFile();
         //f.readwriteBitmapFile();
-        Intent i = new Intent(this, com.main.hyphenate.chatuidemo.ui.SplashActivity.class);
+        //Intent i = new Intent(this, com.main.hyphenate.chatuidemo.ui.SplashActivity.class);
+        Intent i = new Intent(this, com.main.butterknife.ButterActivity.class);
         startActivity(i);
     	//testIris();
         //testANR();
